@@ -1,1 +1,2 @@
-print('ok')
+def test():
+  print('test is ok')
