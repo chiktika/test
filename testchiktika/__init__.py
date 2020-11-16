@@ -1,1 +1,0 @@
-from testchiktika import *
