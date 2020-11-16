@@ -1,1 +1,1 @@
-from .test import *
+from testchiktika import *
