@@ -1,1 +1,1 @@
-from testchiktika import *
+print('merguez')
